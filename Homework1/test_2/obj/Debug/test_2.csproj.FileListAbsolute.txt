@@ -1,0 +1,9 @@
+C:\Users\阿西莫夫\source\repos\test_2\bin\Debug\test_2.exe.config
+C:\Users\阿西莫夫\source\repos\test_2\bin\Debug\test_2.exe
+C:\Users\阿西莫夫\source\repos\test_2\bin\Debug\test_2.pdb
+C:\Users\阿西莫夫\source\repos\test_2\obj\Debug\test_2.csprojAssemblyReference.cache
+C:\Users\阿西莫夫\source\repos\test_2\obj\Debug\test_2.Form1.resources
+C:\Users\阿西莫夫\source\repos\test_2\obj\Debug\test_2.Properties.Resources.resources
+C:\Users\阿西莫夫\source\repos\test_2\obj\Debug\test_2.csproj.GenerateResource.cache
+C:\Users\阿西莫夫\source\repos\test_2\obj\Debug\test_2.exe
+C:\Users\阿西莫夫\source\repos\test_2\obj\Debug\test_2.pdb
