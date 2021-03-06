@@ -1,0 +1,6 @@
+C:\Users\阿西莫夫\source\repos\homework2_2\bin\Debug\homework2_2.exe.config
+C:\Users\阿西莫夫\source\repos\homework2_2\bin\Debug\homework2_2.exe
+C:\Users\阿西莫夫\source\repos\homework2_2\bin\Debug\homework2_2.pdb
+C:\Users\阿西莫夫\source\repos\homework2_2\obj\Debug\homework2_2.exe
+C:\Users\阿西莫夫\source\repos\homework2_2\obj\Debug\homework2_2.pdb
+C:\Users\阿西莫夫\source\repos\homework2_2\obj\Debug\homework2_2.csprojAssemblyReference.cache
