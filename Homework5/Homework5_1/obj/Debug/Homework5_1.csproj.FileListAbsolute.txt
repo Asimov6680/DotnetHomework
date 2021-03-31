@@ -1,0 +1,6 @@
+C:\Users\阿西莫夫\source\repos\Homework5_1\bin\Debug\Homework5_1.exe.config
+C:\Users\阿西莫夫\source\repos\Homework5_1\bin\Debug\Homework5_1.exe
+C:\Users\阿西莫夫\source\repos\Homework5_1\bin\Debug\Homework5_1.pdb
+C:\Users\阿西莫夫\source\repos\Homework5_1\obj\Debug\Homework5_1.csprojAssemblyReference.cache
+C:\Users\阿西莫夫\source\repos\Homework5_1\obj\Debug\Homework5_1.exe
+C:\Users\阿西莫夫\source\repos\Homework5_1\obj\Debug\Homework5_1.pdb
