@@ -1,0 +1,336 @@
+﻿<!DOCTYPE html>
+<html lang="zh-cmn-Hans">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta http-equiv="content-language" content="zh-CN">
+    <meta name="Description" content="">
+    <meta name="Keywords" content="">
+    <title>-观察者网-全球视野 中国关怀</title>
+    <link rel="shortcut icon" href="https://i.guancha.cn/images/favorite.ico" />
+    <link rel="stylesheet" type="text/css" href="../css/public.css?20171216">
+    <link rel="stylesheet" type="text/css" href="../css/main.css">
+    <script src="../js/jquery-1.8.2.min.js"></script>
+</head>
+<body>
+<div class="header">
+	<div class="main header-main">
+		<div class="header-right">
+		</div>
+		<div class="header-left" id="date"></div>
+		<script type="text/javascript" language="javascript">
+		var now = new Date(); var year = now.getFullYear(); var month = now.getMonth(); var date = now.getDate(); var day = now.getDay(); var week;
+		month = month + 1; if (month < 10) month = "0" + month; if (date < 10) date = "0" + date;
+		var arr_week = new Array("星期日", "星期一", "星期二", "星期三", "星期四", "星期五", "星期六");
+		week = arr_week[day]; var time = ""; time = year + "-" + month + "-" + date;
+		document.getElementById('date').innerHTML = week+'&nbsp;'+time;
+	    </script>
+	</div>
+</div>
+<div class="content">
+	<!-- 观察者logo-子页面 start -->
+	<div class="main content-logo"></div>	<!-- 观察者logo-子页面 end -->
+	<!-- 导航 start -->
+	<div class="nav">
+				<div class="nav-cell j-nav-cell">
+        		    <a href="/?s=dhshouye">首页</a>
+				</div>
+					<div class="nav-cell j-nav-cell">
+        		    <a href="http://user.guancha.cn/?s=dhfengwen">风闻</a>
+				</div>
+					<div class="nav-cell j-nav-cell">
+        		    <a href="https://member.guancha.cn/">观学院</a>
+				</div>
+					<div class="nav-cell j-nav-cell">
+	    		    <a href="/internation?s=dhguoji" title="国际">国际</a>
+		    
+		</div>
+					<div class="nav-cell j-nav-cell">
+	    		    <a href="/military-affairs?s=dhjunshi" title="军事">军事</a>
+		    
+		</div>
+					<div class="nav-cell j-nav-cell">
+	    		    <a href="/economy?s=dhcaijing" title="财经">财经</a>
+		    
+		</div>
+					<div class="nav-cell j-nav-cell">
+	    		    <a href="/chanjing?s=dhchanjing" title="产经">产经</a>
+		    
+		</div>
+					<div class="nav-cell j-nav-cell">
+	    		    <a href="/gongye·keji?s=dhgongye·keji" title="科技">科技</a>
+		    
+		</div>
+					<div class="nav-cell j-nav-cell">
+	    		    <a href="/qiche?s=dhqiche" title="汽车">汽车</a>
+		    
+		</div>
+					<div class="nav-cell j-nav-cell">
+	    			<a href="/video/gczvideo/list.html" title="视频" class="last">视频</a>
+		    
+		</div>
+		</div>	<!-- 导航 end -->
+	<div class="main content-main">
+		<ul class="two-coloum fix">
+			<li class="left">
+				
+<div class="crumbs">
+	<a href="/">首页</a>
+	> 服务条款
+</div>
+                <!-- txt-con -->
+<div class="left-main">					
+<div class="content all-txt">
+						<br>
+						<p> 
+1.重要须知：本网在此特别提醒，用户（您）欲访问和使用观察者网站，必须事先认真阅读本服务条款中各
+条款，包括免除或者限制本网责任的免责条款及对用户的权利限制。请您审阅并决定接受或不接受本服务条款。如您不同意本服务条款，您应不使用或主动取消本网
+提供的服务。您的使用行为将被视为您对本服务条款全部的完全接受，包括接受本网站对服务条款随时所做的任何修改。
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;2.观察者网站根据互联网的发展和中华人民共和国有关法律、法规的变化，不断地完善服务质量并依此修改
+观察者网站会员服务条款。用户的权利以及义务的表述，均以最新的服务条款为准。观察者网站保留随时修改或中断服务而不需通知您的权利，观察者网站行使修改
+或中断服务的权利，不需对您或第三方负责。
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;3.保证自己在使用各服务时用户身份的真实性和正确性及完整性，如果资料发生变化，您应及时更改。在安
+全完成本服务的登记程序并收到一个密码及帐号后，您应维持密码及帐号的机密安全。您应对任何人利用您的密码及帐号所进行的活动负完全的责任，本网站无法对
+非法或未经您授权使用您帐号及密码的行为作出甄别，因此本网站不承担任何责任。
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;4.用户应对自己在观察者网站上发表的内容负全部责任。如用户违反国家法律法规或本服务条款，本网站有
+权停止向用户提供服务而不需承担任何责任，如导致本网站或合作公司遭受任何损害或遭受任何来自第三方的纠纷、诉讼、索赔要求等，用户须向本网站或合作公司
+赔偿相应的损失，用户并需对其违反服务条款所产生的一切后果负全部法律责任。
+  <br> 
+&nbsp;&nbsp;&nbsp;&nbsp;5.网站特别提请用户注意，本网站为了保障公司业务发展和调整的自主权，本网站拥有经或未经事先通知而修改服务内容、中断或中止部分或全部服务的权利，修改会以通告形式公布于本网站网站相关页面上，一经公布视为通知。
+   <br>             
+&nbsp;&nbsp;&nbsp;&nbsp;本网站行使修改或中断服务的权利而造成损失的，本网站不需对用户或任何第三方负责。<br> &nbsp;&nbsp;&nbsp;&nbsp;如发生下列任何一种情形，本网站有权随时中断或终止向用户提供服务而无需通知用户：
+  <br>                   
+&nbsp;&nbsp;&nbsp;&nbsp;1 用户提供的个人资料不真实；<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;2 用户违反本服务条款的规定；<br> 
+
+&nbsp;&nbsp;&nbsp;&nbsp;3 按照主管部门的要求； <br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;4 其他本网站认为是符合整体服务需求的特殊情形。 <br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;6.本网站重视对用户隐私的保护，保护隐私是本网站的一项基本政策。您提供的登记资料及本网站保留的有关您的若干其他个人资料将受到中国有关隐私的法律和本网站《隐私保护声明》之规范。<br>
+                      
+&nbsp;&nbsp;&nbsp;&nbsp;7. 
+本网站定义的信息内容包括：文字、软件、声音、相片、录像、图表；网页；广告中全部内容；本网站为用户提供的商业信息。所有这些内容受版权、商标权、和其
+它知识产权和所有权法律的保护。所以，用户只能在本网站和相关权利人授权下才能使用这些内容，而不能擅自使用、抄袭、复制、修改、编撰这些内容、或创造与
+内容有关的衍生产品。<br>
+                    
+ &nbsp;&nbsp;&nbsp;&nbsp;8.本服务条款要与国家相关法律、法规一致，如发生服务条款与相关法律、法规条款有相抵触的内容，抵触部分以法律、法规条款为准。
+						</p>
+                    </div>
+                </div>
+			</li>
+			<li class="right">
+				<script type="text/javascript">
+    function gotoUrl() {
+        var objvalue = document.getElementById("txtkey").value;
+        if (objvalue == ""||objvalue == "请输入关键字！") {
+            alert("请输入查询关键字");
+            document.getElementById("txtkey").focus();
+            return false;
+        }
+        else {
+        	var temp = document.domain.split(".");
+            var url = 'https://user.'+temp[temp.length-2]+'.'+temp[temp.length-1]+"/main/search?click=news&keyword=" + objvalue;
+            url = encodeURI(url);
+            _url = window.location.href;
+            if(_url.indexOf("/main/search?click=news") == -1){
+                window.open(url);
+            }else{
+            	window.location.href = url;
+            }
+            return true;
+        }
+    }
+	document.onkeydown=function(event){
+		var e = event || window.event || arguments.callee.caller.arguments[0];
+		if(e && e.keyCode==13 && document.activeElement.id=="txtkey"){ 
+			return gotoUrl();
+		}
+	}
+</script>
+<div class="search fix">
+	<input onblur="this.style.color='#999';if(this.value=='') this.value='请输入关键字！';" onfocus="this.style.color='#000';if(this.value=='请输入关键字！') this.value='';" value="请输入关键字！" id="txtkey" type="text">
+	<a onclick="gotoUrl();">搜索</a>
+</div>
+				<a href="https://g.gd-share.cn/p/exkovcrg" target="_blank"><img src="https://i.guancha.cn/tg/20210427171617938.jpg" alt="双周内容优质热榜-内页" class="QR_code"></a>
+
+				<script type="text/javascript">
+	function selectThermal(showContent,selfObj){
+	// 操作标签
+	var tag = document.getElementById("ThermalTags").getElementsByTagName("li");
+	var taglength = tag.length;
+	for(i=0; i<taglength; i++){
+		tag[i].className = "";
+	}
+	selfObj.parentNode.className = "selectThermal";
+	// 操作内容
+	for(i=0; j=document.getElementById("ThermalContent"+i); i++){
+		j.style.display = "none";
+	}
+	document.getElementById(showContent).style.display = "block";
+	}
+</script>
+<div class="Thermalpaper top-spacing">
+	<div class="ThermalTitle">
+		<h2>•&nbsp;最热新闻&nbsp;•</h2>
+		<ul class="ThermalUl" id="ThermalTags">
+			<li class="selectThermal"><a href="javascript:void(0)" onmouseover="selectThermal('ThermalContent0',this)">一天</a></li>
+			<li><a href="javascript:void(0)" onmouseover="selectThermal('ThermalContent1',this)">一周</a></li>
+			<li><a href="javascript:void(0)" onmouseover="selectThermal('ThermalContent2',this)">一月</a></li>
+		</ul>
+		<div class="ThermalTxt selectThermal" id="ThermalContent0">
+			<ul>
+							<li class="Comment_0"><a href="/internation/2020_02_21_537638.shtml" target="_blank">特朗普不满《寄生虫》获奥斯卡最佳影片：竟然颁给韩国电影？！</a></li>
+							<li class="Comment_1"><a href="/internation/2021_04_28_589086.shtml" target="_blank">被问是否已禁止进口“中国强迫劳动产品”，她拒答</a></li>
+							<li class="Comment_2"><a href="/internation/2021_04_29_589188.shtml" target="_blank">“莫迪辞职”，脸书“反复横跳”</a></li>
+							<li class="Comment_3"><a href="/internation/2021_04_28_589158.shtml" target="_blank">“莫迪是超级传播者，要对本轮疫情负责”</a></li>
+							<li class="Comment_4"><a href="/internation/2021_04_28_589157.shtml" target="_blank">“以为英国还统治着世界呢？”</a></li>
+							<li class="Comment_5"><a href="/internation/2021_04_28_589123.shtml" target="_blank">“印度总对我们说‘祈祷吧’，中国则反应积极”</a></li>
+							<li class="Comment_6"><a href="/internation/2021_04_28_589088.shtml" target="_blank">“美国照照镜子，种族灭绝的是你”</a></li>
+							<li class="Comment_7"><a href="/internation/2021_04_28_589085.shtml" target="_blank">27345桶！原来美国早干过这事？</a></li>
+							<li class="Comment_8"><a href="/internation/2021_04_28_589081.shtml" target="_blank">美国务卿“虚拟”访非，挑拨中非关系</a></li>
+							<li class="Comment_9"><a href="/politics/2021_04_28_589122.shtml" target="_blank">“日方做了坏事，还不让别人说吗？”</a></li>
+						</ul>
+		</div>
+		<div class="ThermalTxt" id="ThermalContent1">
+			<ul>
+							<li class="Comment_0"><a href="/internation/2021_04_24_588634.shtml" target="_blank">印度再创新高破34万，“人间炼狱”</a></li>
+							<li class="Comment_1"><a href="/internation/2021_04_25_588740.shtml" target="_blank">救急！印度公司下单中国制氧机</a></li>
+							<li class="Comment_2"><a href="/culture/2021_04_25_588760.shtml" target="_blank">“跨越百年的相见”</a></li>
+							<li class="Comment_3"><a href="/internation/2021_04_25_588669.shtml" target="_blank">“这是数据大屠杀”</a></li>
+							<li class="Comment_4"><a href="/internation/2021_04_26_588900.shtml" target="_blank">赵立坚发推：如果原作者还活着…</a></li>
+							<li class="Comment_5"><a href="/politics/2021_04_23_588518.shtml" target="_blank">棉花番茄被禁，新疆一季度对美出口额仍同比暴涨113%</a></li>
+							<li class="Comment_6"><a href="/internation/2021_04_26_588814.shtml" target="_blank">压力之下，美国终于肯出手相救了</a></li>
+							<li class="Comment_7"><a href="/internation/2021_04_27_589037.shtml" target="_blank">中俄疫苗有效性高于辉瑞？匈牙利国内吵起来了</a></li>
+							<li class="Comment_8"><a href="/internation/2021_04_24_588646.shtml" target="_blank">中国愿提供抗疫帮助，印媒却这态度</a></li>
+							<li class="Comment_9"><a href="/internation/2021_04_25_588769.shtml" target="_blank">莫迪发表全国讲话：这场风暴已撼动整个国家</a></li>
+						</ul>
+		</div>
+		<div class="ThermalTxt" id="ThermalContent2">
+			<ul>
+							<li class="Comment_0"><a href="/internation/2021_04_24_588634.shtml" target="_blank">印度再创新高破34万，“人间炼狱”</a></li>
+							<li class="Comment_1"><a href="/internation/2021_04_18_587897.shtml" target="_blank">“你是逃犯！”中国学者上BBC暴击罗冠聪</a></li>
+							<li class="Comment_2"><a href="/internation/2021_04_05_586373.shtml" target="_blank">立竿见影！中方制裁打痛英国顶尖大律所</a></li>
+							<li class="Comment_3"><a href="/internation/2021_04_09_586800.shtml" target="_blank">“美国将动用所有战略经济外交工具，抗衡中国”</a></li>
+							<li class="Comment_4"><a href="/politics/2021_04_06_586449.shtml" target="_blank">香港教师用书“洗白”鸦片战争内容，终于改了！</a></li>
+							<li class="Comment_5"><a href="/internation/2021_04_01_586022.shtml" target="_blank">G7贸易会议前英国对华放“狠话”，会后却...</a></li>
+							<li class="Comment_6"><a href="/politics/2021_04_18_587919.shtml" target="_blank">“把书念下去，然后走出去！”</a></li>
+							<li class="Comment_7"><a href="/internation/2021_04_07_586632.shtml" target="_blank">“若有人挑衅，将以牙还牙”</a></li>
+							<li class="Comment_8"><a href="/internation/2021_04_25_588740.shtml" target="_blank">救急！印度公司下单中国制氧机</a></li>
+							<li class="Comment_9"><a href="/internation/2021_04_19_588033.shtml" target="_blank">失控！印度首都封锁，网民在线“求救”</a></li>
+						</ul>
+		</div>
+	</div>
+</div>
+				<div class="module-news-2">
+    <div class="module-news-2-header">
+		<span style="font-size:22px;color:#000">&nbsp;&nbsp;&nbsp;最新闻 Hot</span>
+	</div>
+	<div class="module-news-2-main">
+		<ul class="hot-list-2">
+		    		    			    		<li style="border-top:0px;">
+		    										<a href="/internation/2021_04_29_589223.shtml?s=zwyzxw" target="_blank" onclick='_czc.push(["_trackEvent", "zuixinwen", "pcclick"]);'><img src="https://i.guancha.cn/news/2021/04/29/20210429140622746.jpg" alt="拜登百日演讲：动起来，中国逼近了" width="390" height="152"></a>
+					<h4><a href="/internation/2021_04_29_589223.shtml?s=zwyzxw" target="_blank" onclick='_czc.push(["_trackEvent", "zuixinwen", "pcclick"]);'>拜登百日演讲：动起来，中国逼近了</a></h4>
+								</li>
+					    			    		<li>
+		    										<a href="/economy/2021_04_29_589234.shtml?s=zwyzxw" target="_blank" onclick='_czc.push(["_trackEvent", "zuixinwen", "pcclick"]);'><img src="https://i.guancha.cn/news/2021/04/29/20210429093615351.jpg" alt="“出口管制只会加快中国自主研发，我们将彻底失去市场”" width="390" height="152"></a>
+					<h4><a href="/economy/2021_04_29_589234.shtml?s=zwyzxw" target="_blank" onclick='_czc.push(["_trackEvent", "zuixinwen", "pcclick"]);'>“出口管制只会加快中国自主研发，我们将彻底失去市场”</a></h4>
+								</li>
+					    			    		<li>
+		    										<a href="/economy/2021_04_29_589221.shtml?s=zwyzxw" target="_blank" onclick='_czc.push(["_trackEvent", "zuixinwen", "pcclick"]);'><img src="https://i.guancha.cn/news/2021/04/29/20210429125948942.jpg" alt="连亏6个季度，波音CEO敦促拜登与中国“搞好关系”" width="390" height="152"></a>
+					<h4><a href="/economy/2021_04_29_589221.shtml?s=zwyzxw" target="_blank" onclick='_czc.push(["_trackEvent", "zuixinwen", "pcclick"]);'>连亏6个季度，波音CEO敦促拜登与中国“搞好关系”</a></h4>
+								</li>
+					    			    		<li>
+		    										<a href="/military-affairs/2021_04_29_589236.shtml?s=zwyzxw" target="_blank" onclick='_czc.push(["_trackEvent", "zuixinwen", "pcclick"]);'><img src="https://i.guancha.cn/news/2021/04/29/20210429112235204.jpg" alt="投资250亿，美国大搞船厂基建“应对中国”" width="390" height="152"></a>
+					<h4><a href="/military-affairs/2021_04_29_589236.shtml?s=zwyzxw" target="_blank" onclick='_czc.push(["_trackEvent", "zuixinwen", "pcclick"]);'>投资250亿，美国大搞船厂基建“应对中国”</a></h4>
+								</li>
+					    			    		<li>
+		    										<a href="/internation/2021_04_29_589202.shtml?s=zwyzxw" target="_blank" onclick='_czc.push(["_trackEvent", "zuixinwen", "pcclick"]);'><img src="https://i.guancha.cn/news/2021/04/29/20210429095322409.jpg" alt="“欧安组织无法再承担忽视中国的代价”" width="390" height="152"></a>
+					<h4><a href="/internation/2021_04_29_589202.shtml?s=zwyzxw" target="_blank" onclick='_czc.push(["_trackEvent", "zuixinwen", "pcclick"]);'>“欧安组织无法再承担忽视中国的代价”</a></h4>
+								</li>
+					    			    		<li>
+		    										<a href="/internation/2021_04_29_589225.shtml?s=zwyzxw" target="_blank" onclick='_czc.push(["_trackEvent", "zuixinwen", "pcclick"]);'><img src="https://i.guancha.cn/news/2021/04/29/20210429120921776.jpg" alt="美国小伙到武当习武：中国比美国更像家" width="390" height="152"></a>
+					<h4><a href="/internation/2021_04_29_589225.shtml?s=zwyzxw" target="_blank" onclick='_czc.push(["_trackEvent", "zuixinwen", "pcclick"]);'>美国小伙到武当习武：中国比美国更像家</a></h4>
+								</li>
+					    			    		<li>
+		    										<a href="/internation/2021_04_29_589188.shtml?s=zwyzxw" target="_blank" onclick='_czc.push(["_trackEvent", "zuixinwen", "pcclick"]);'><img src="https://i.guancha.cn/news/2021/04/29/20210429091927228.jpg" alt="“莫迪辞职”，脸书“反复横跳”" width="390" height="152"></a>
+					<h4><a href="/internation/2021_04_29_589188.shtml?s=zwyzxw" target="_blank" onclick='_czc.push(["_trackEvent", "zuixinwen", "pcclick"]);'>“莫迪辞职”，脸书“反复横跳”</a></h4>
+								</li>
+					    			    		<li>
+		    										<a href="/politics/2021_04_29_589200.shtml?s=zwyzxw" target="_blank" onclick='_czc.push(["_trackEvent", "zuixinwen", "pcclick"]);'><img src="https://i.guancha.cn/news/2021/04/29/20210429102545568.jpg" alt="“假难民”祸港多年，港府修订入境条例" width="390" height="152"></a>
+					<h4><a href="/politics/2021_04_29_589200.shtml?s=zwyzxw" target="_blank" onclick='_czc.push(["_trackEvent", "zuixinwen", "pcclick"]);'>“假难民”祸港多年，港府修订入境条例</a></h4>
+								</li>
+					    			    		<li>
+		    										<a href="/internation/2021_04_29_589184.shtml?s=zwyzxw" target="_blank" onclick='_czc.push(["_trackEvent", "zuixinwen", "pcclick"]);'><img src="https://i.guancha.cn/news/2021/04/29/20210429095529807.jpg" alt="我驻印大使：2.5万台制氧机订单，中国厂商加班处理" width="390" height="152"></a>
+					<h4><a href="/internation/2021_04_29_589184.shtml?s=zwyzxw" target="_blank" onclick='_czc.push(["_trackEvent", "zuixinwen", "pcclick"]);'>我驻印大使：2.5万台制氧机订单，中国厂商加班处理</a></h4>
+								</li>
+					    			    		<li>
+		    										<a href="/internation/2021_04_29_589189.shtml?s=zwyzxw" target="_blank" onclick='_czc.push(["_trackEvent", "zuixinwen", "pcclick"]);'><img src="https://i.guancha.cn/news/2021/04/29/20210429082816361.jpg" alt="安倍晒台湾凤梨，蔡英文日语讨好：不够再送" width="390" height="152"></a>
+					<h4><a href="/internation/2021_04_29_589189.shtml?s=zwyzxw" target="_blank" onclick='_czc.push(["_trackEvent", "zuixinwen", "pcclick"]);'>安倍晒台湾凤梨，蔡英文日语讨好：不够再送</a></h4>
+								</li>
+					    			    		<li>
+		    										<a href="/politics/2021_04_29_589170.shtml?s=zwyzxw" target="_blank" onclick='_czc.push(["_trackEvent", "zuixinwen", "pcclick"]);'><img src="https://i.guancha.cn/news/2021/04/29/20210429075222224.jpg" alt="欧盟称中俄发“假消息”削弱西方疫苗信心，我使团驳斥" width="390" height="152"></a>
+					<h4><a href="/politics/2021_04_29_589170.shtml?s=zwyzxw" target="_blank" onclick='_czc.push(["_trackEvent", "zuixinwen", "pcclick"]);'>欧盟称中俄发“假消息”削弱西方疫苗信心，我使团驳斥</a></h4>
+								</li>
+					    			    		<li>
+		    										<a href="/internation/2021_04_28_589158.shtml?s=zwyzxw" target="_blank" onclick='_czc.push(["_trackEvent", "zuixinwen", "pcclick"]);'><img src="https://i.guancha.cn/news/2021/04/28/20210428233309231.jpg" alt="“莫迪是超级传播者，要对本轮疫情负责”" width="390" height="152"></a>
+					<h4><a href="/internation/2021_04_28_589158.shtml?s=zwyzxw" target="_blank" onclick='_czc.push(["_trackEvent", "zuixinwen", "pcclick"]);'>“莫迪是超级传播者，要对本轮疫情负责”</a></h4>
+								</li>
+					    			    		<li>
+		    										<a href="/internation/2021_04_28_589157.shtml?s=zwyzxw" target="_blank" onclick='_czc.push(["_trackEvent", "zuixinwen", "pcclick"]);'><img src="https://i.guancha.cn/news/2021/04/28/20210428225618235.jpg" alt="“以为英国还统治着世界呢？”" width="390" height="152"></a>
+					<h4><a href="/internation/2021_04_28_589157.shtml?s=zwyzxw" target="_blank" onclick='_czc.push(["_trackEvent", "zuixinwen", "pcclick"]);'>“以为英国还统治着世界呢？”</a></h4>
+								</li>
+					    			    		<li>
+		    										<a href="/internation/2021_04_28_589156.shtml?s=zwyzxw" target="_blank" onclick='_czc.push(["_trackEvent", "zuixinwen", "pcclick"]);'><img src="https://i.guancha.cn/news/2021/04/28/20210428221421922.jpg" alt="再砸1.8万亿！这回准备对富人开刀" width="390" height="152"></a>
+					<h4><a href="/internation/2021_04_28_589156.shtml?s=zwyzxw" target="_blank" onclick='_czc.push(["_trackEvent", "zuixinwen", "pcclick"]);'>再砸1.8万亿！这回准备对富人开刀</a></h4>
+								</li>
+					    			    		<li>
+		    										<a href="/internation/2021_04_28_589148.shtml?s=zwyzxw" target="_blank" onclick='_czc.push(["_trackEvent", "zuixinwen", "pcclick"]);'><img src="https://i.guancha.cn/news/2021/04/28/20210428201812535.jpg" alt="拜登提名她出任副防长：生于台湾，曾负责美台军售案" width="390" height="152"></a>
+					<h4><a href="/internation/2021_04_28_589148.shtml?s=zwyzxw" target="_blank" onclick='_czc.push(["_trackEvent", "zuixinwen", "pcclick"]);'>拜登提名她出任副防长：生于台湾，曾负责美台军售案</a></h4>
+								</li>
+					    			    		<li>
+		    										<a href="/politics/2021_04_28_589122.shtml?s=zwyzxw" target="_blank" onclick='_czc.push(["_trackEvent", "zuixinwen", "pcclick"]);'><img src="https://i.guancha.cn/news/2021/04/28/20210428171046817.jpg!cmspn?watermark/2/text/MDA6MDM6MDM=/fill/I0ZGRkZGRg==/fontsize/30/dx/15/dy/15" alt="“日方做了坏事，还不让别人说吗？”" width="390" height="152"></a>
+					<h4><a href="/politics/2021_04_28_589122.shtml?s=zwyzxw" target="_blank" onclick='_czc.push(["_trackEvent", "zuixinwen", "pcclick"]);'>“日方做了坏事，还不让别人说吗？”</a></h4>
+								</li>
+					</ul>
+	</div>
+</div>			</li>
+		</ul>
+		<div class="borderGray"></div>
+	</div>
+</div>
+<div class="footer">
+	<ul class="fix">
+		<li><a href="http://www.guancha.cn/about/ManuscriptDelivery.shtml" target="_blank">联系我们 </a></li>
+		<li><a href="http://www.guancha.cn/about/about.shtml" target="_blank">关于我们 </a></li>
+		<li><a href="http://www.guancha.cn/about/Copyright.shtml" target="_blank">版权声明 </a></li>
+		<li><a href="http://www.guancha.cn/about/TermsOfService.shtml" target="_blank">服务条款 </a></li>
+		<li><a href="http://www.guancha.cn/about/Advertise.shtml" target="_blank">刊登广告 </a></li>
+		<li><a href="http://weibo.com/newoutlook" target="_blank">联系微博</a></li>
+		<li><a href="http://www.guancha.cn/life/2012_09_05_74361.shtml" target="_blank">加入我们</a></li>
+		<li><a href="http://www.guancha.cn/about/sitemap.shtml" target="_blank">网站地图</a></li>
+		<li><a href="http://www.shjbzx.cn" target="_blank">举报链接</a></li>
+		<li><a href="http://www.guancha.cn/broken-news/2017_03_28_400912_3.shtml" target="_blank">举报制度规范</a></li>
+		<li><a href="http://www.guancha.cn/life/2018_02_11_446706.shtml" target="_blank">《网站自律管理承诺书》</a></li>
+	</ul>
+	<p>
+		Copyright © 2019 观察者 All rights reserved。<br><a target="_blank" href="https://beian.miit.gov.cn">沪ICP备10213822号-2</a>  互联网新闻信息服务许可证：31220170001
+网登网视备（沪）02020000041-1号
+广播电视节目制作经营许可证：（沪）字第03952号 &nbsp;&nbsp;违法及不良信息举报电话：021-62376571<br><br>
+		<a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=31010502000027"><img src="../images/beian-icon.png" style="vertical-align:middle;"> 沪公网安备 31010502000027号</a>
+		<a target="_blank" href="http://www.12377.cn/"><img src="../images/jubao-icon.png" style="vertical-align:middle;"> 中国互联网举报中心</a>
+		<a target="_blank" href="http://www.shjbzx.cn/"><img src="../images/wangxinban_jubao.png" style="vertical-align:middle;"> 上海市互联网违法与不良信息举报中心</a>
+	</p> 
+</div>
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F8ab18ec6e3ee89210917ef2c8572b30e' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<div style="display:none"><script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1254137364'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s95.cnzz.com/z_stat.php%3Fid%3D1254137364' type='text/javascript'%3E%3C/script%3E"));</script></div><script src="../js/base.js"></script>
+<script src="../js/main.js?20171227"></script>
+<script type="text/javascript" src="//user.guancha.cn/static/js/comments-plugin-cms.js?201901031438"></script>
+</body>
+</html>
