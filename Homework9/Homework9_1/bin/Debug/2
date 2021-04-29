@@ -1,0 +1,1056 @@
+﻿<!DOCTYPE html>
+<html lang="zh-cmn-Hans">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="author" content="name, email@gmail.com">
+<link rel="stylesheet" type="text/css" href="../css/public.css?20200902">
+<link rel="stylesheet" type="text/css" href="../css/main.css?20190826">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta http-equiv="content-language" content="zh-CN">
+	<meta http-equiv="Cache-Control"  content="no-transform" />
+	<meta http-equiv="Cache-Control"  content="no-siteapp" />
+	<meta name="applicable-device" content="pc">
+	<meta name="mobile-agent" content="format=xhtml;url=https://m.guancha.cn/GuanChaZheWang/2012_09_05_74361.shtml">
+	<link rel="alternate" media="only screen and (max-width: 970px)"     href="https://m.guancha.cn/GuanChaZheWang/2012_09_05_74361.shtml" >
+	<meta name="mobile-agent" content="format=html5;url=https://m.guancha.cn/GuanChaZheWang/2012_09_05_74361.shtml">
+    <meta name="Keywords" content="观察者网,招聘,网络编辑,网络美编,网站推广">
+    <meta name="Description" content="亲爱的读者，非常感谢你点击“加入我们”，我们观察者网长期面向社会招聘：网络编辑、网络美编、网站推广，具体岗位需求请见全文。">
+    <link href="https://i.guancha.cn/images/favorite.ico" rel="shortcut icon"/>
+    <script type="text/javascript" src="../js/jquery-1.8.2.min.js"></script> 
+    <title>成为观察者网的一员</title>
+    <style>
+        .content-menu{border-bottom:1px solid #e6e6e6;}
+        .header-content{width: 1200px;height: 64px;margin:0 auto;}
+        .nav{position:relative;bottom:35px;right:150px;width:600px;height:64px;margin:-30px auto;padding:0;background-color:#fff;}
+        .nav-cell{float:left;height:64px;width:auto;margin-left:0x;}
+        .nav-cell > a{display:block;width:auto;padding:0 10px;line-height:65px;text-align:center;font-size: 16px;color:#000;font-weight:normal;background:inherit}
+        .nav-cell > a.last{background:none;}
+        .nav-cell > a:hover{text-decoration: none;background:#9d1518;color:#fff;}
+        .sub-menu{position:absolute;left:-168px;top:64px;width:1198px;height:240px;border:1px solid #bd0509;background:#fff;display: none;z-index: 100;}
+        .login-image{padding:6px 12px;position:relative;right:10px;}
+        .header-login-yet > a{line-height:65px;font-size:16px;color:#000}
+        .header-user{line-height:65px;}
+        .header-user img{display: inline-block;width:30px;height:30px;border-radius: 50%;}
+        .header-user span{font-size:16px;}
+        .set-menu{top:64px;z-index:500}
+        .set-menu span{font-size:14px;}
+        .set-menu li{height:40px;line-height:40px;}
+        .set-menu a i{margin-top:12px;}
+        .warm-spots{right:-2px;top:22px;}
+        .notice-box {left: -217px;top: 55px;}
+        .post-recommend{font-size:20px;font-weight:bold;color:#ff0000;padding-bottom:10px;}
+        .post_ad_close{position:absolute;right:0px;top:-18px;border:1px solid;}
+        .post_ad_gesture{position:relative;bottom:2px;display:inline-block;width:15px;height:3px;background:#000;line-height: 0;font-size:0;vertical-align:middle;-webkit-transform:rotate(45deg);}
+        .post_ad_gesture:after{content:'/';display:block;width:15px;height:3px;background:#000;-webkit-transform:rotate(-90deg);}
+        .go_vip{width:170px;height:32px;text-align:center;line-height:32px;font-size:18px;color:#bb0c17;background-color:#EEE1E1;margin:5px auto 10px;cursor:pointer;display:block;text-decoration:none !important;}
+        .baidu-commercial{display:none;}
+        .post_vline{float:left;padding:0 10px;font-size:16px;}
+        .post_accusation{float:left;font-size:14px;cursor:pointer;}
+        .accusation-down-list{
+            position: absolute;
+            background: #fff;
+            z-index: 100;
+            top: 55px;
+            left: 408px;
+            border-bottom-left-radius: 4px;
+            border-bottom-right-radius: 4px;
+            box-shadow: 0px 2px 19px #888888;
+            z-index: 1000;
+        	width: 400px;
+        	display:none;
+        }
+        .accusation-down-list .arrows{    
+            width: 15px;
+            height: 7px;
+            position: absolute;
+            top: -7px;
+            left: 8px;
+            background: url(../images/notice-icons.png) no-repeat -373px -20px;
+        }
+        .acc-tips-body ul>li{
+        	line-height: 20px;
+        }
+        
+        input::-webkit-outer-spin-button,input::-webkit-inner-spin-button{-webkit-appearance: none;}
+        input[type="number"]{-moz-appearance: textfield;}
+    </style>
+<script type="text/javascript">
+	var _API_URL="http://api.guancha.cn",
+		_CMT_URL="http://comment.guancha.cn",
+		_DOC_ID="69069";
+		_AD_SWITCH="1";
+	var	share_options = {
+			"url" : window.location.href,
+			"title" : "成为观察者网的一员",
+			"summary" : "亲爱的读者，非常感谢你点击“加入我们”，我们观察者网长期面向社会招聘：网络编辑、网络美编、网站推广，具体岗位需求请见全文。",
+			"pic" : "https://i.guancha.cn/media/2018/07/27/20180727144058436.jpg?imageMogr2/thumbnail/147x147",
+		}
+</script>
+</head>
+<body>
+<div class="content">
+    <div class="content-menu">
+	    <div class="header-content">
+	        <!-- 观察者logo-首页 start -->
+	        <a href="/"><img style="margin:12px auto" width="126px" src="../images/mian-logo.png"></a>
+	        <!-- 观察者logo-首页 end -->
+	    </div>
+	</div>
+	<!-- 导航 start -->
+	    <div class="nav">
+				<div class="nav-cell j-nav-cell">
+        		    <a href="/?s=dhshouye">首页</a>
+				</div>
+					<div class="nav-cell j-nav-cell">
+        		    <a href="http://user.guancha.cn/?s=dhfengwen">风闻</a>
+				</div>
+					<div class="nav-cell j-nav-cell">
+        		    <a href="https://member.guancha.cn/">观学院</a>
+				</div>
+					<div class="nav-cell j-nav-cell">
+	    		    <a href="/internation?s=dhguoji" title="国际">国际</a>
+		    
+		</div>
+					<div class="nav-cell j-nav-cell">
+	    		    <a href="/military-affairs?s=dhjunshi" title="军事">军事</a>
+		    
+		</div>
+					<div class="nav-cell j-nav-cell">
+	    		    <a href="/economy?s=dhcaijing" title="财经">财经</a>
+		    
+		</div>
+					<div class="nav-cell j-nav-cell">
+	    		    <a href="/chanjing?s=dhchanjing" title="产经">产经</a>
+		    
+		</div>
+					<div class="nav-cell j-nav-cell">
+	    		    <a href="/gongye·keji?s=dhgongye·keji" title="科技">科技</a>
+		    
+		</div>
+					<div class="nav-cell j-nav-cell">
+	    		    <a href="/qiche?s=dhqiche" title="汽车">汽车</a>
+		    
+		</div>
+					<div class="nav-cell j-nav-cell">
+	    			<a href="/video/gczvideo/list.html" title="视频" class="last">视频</a>
+		    
+		</div>
+		</div>	<!-- 导航 end -->
+
+	<div class="main content-main"> 
+		<!-- 二栏 start -->
+		<ul class="two-coloum fix">
+			<li class="left left-main" style="position:relative;bottom:43px;">
+				<h3>成为观察者网的一员</h3>
+
+<ul class="author fix">
+		<li>
+		<div class="author-intro fix">
+			<a href="../GuanChaZheWang" target="_blank"><img alt="观察者网" title="观察者网" src="https://i.guancha.cn/authors/GuanChaZheWang/20200405000432355.png" border="0" width="45" ></a>
+			<p><a href="../GuanChaZheWang" target="_blank">观察者网</a><span>中国关怀，全球视野</span></p>
+		</div>
+	</li>
+	</ul>
+
+<!-- 分享 -->
+<div class="share">
+	<span>分享到：</span>
+	<div class="share-box fl share-box-2" style="margin-top:0px;">
+		<div class="share-block"><a class="sina-2" data-cmd="tsina"></a></div>
+		<div class="share-block"><a class="qq-2" data-cmd="sqq"></a></div>
+		<div class="share-block"><a class="qq-z-2" data-cmd="qzone"></a></div>
+		<div class="share-block"><a class="weixin-2" data-cmd="weixin"></a></div>
+	</div>
+	<div class="other-box fr">
+        	<a class="collect ml10" title="收藏本文"><i></i><span id="count0"></span></a>
+        	<a class="comment ml10" href="#comment"  title="查看评论" onclick='_czc.push(["_trackEvent", "commentcount", "click", "icon"]);'><i></i>
+        	<span id="count2"></span></a>
+        	<a class="count" href="#comment" onclick='_czc.push(["_trackEvent", "commentcount", "click", "num"]);'></a>
+    </div>
+</div>
+<div class="time fix">
+	<span>2018-06-29 12:34:09</span>
+	<span>字号：<a fSize="14px" class="current ft-s" href="javascript:void(0);">A-</a>
+	           <a fSize="18px" class="ft-zc" href="javascript:void(0);">A</a>
+               <a fSize="22px" class="ft-b" href="javascript:void(0);">A+</a></span>
+	<span>来源：观察者网</span>
+</div>
+<div class="time fix" style="padding:0"><span>最后更新: 2020-11-24 15:40:29</span></div>
+                <div class="content all-txt">
+<p>
+	<span style="color:#E53333;"><strong>【更新时间：2020年11月24日】</strong></span>
+</p>
+<p>
+	<span style="color:#E53333;"><strong>简历请以应聘岗位+姓名+电话为标题发送至hr@guancha.cn</strong></span>
+</p>
+<p>
+	<strong>新闻编辑</strong>
+</p>
+<p>
+	招聘人数：若干
+</p>
+<p>
+	任职要求：
+</p>
+<p>
+	1、对世界充满好奇心，认可观察者网的风格；
+</p>
+<p>
+	2、善于用文字表达观点和叙事；
+</p>
+<p>
+	3、有媒体公众号写作经验优先；
+</p>
+<p>
+	4、有团队协作精神，乐于沟通；
+</p>
+<p>
+	5、学历：本科或以上，专业不限，有新闻从业经验者优先，掌握小语种外语能力者优先【eg. 德语、法语】。
+</p>
+<p>
+	工作待遇：
+</p>
+<p>
+	1、正式签订合同后，待遇高于上海同等行业的平均水平；
+</p>
+<p>
+	2、团队气氛融洽，工作环境舒适； 工作地点：上海市番禺路，近交通大学地铁站；
+</p>
+<p>
+	3、有相关经验者从优；发展空间大。
+</p>
+<p>
+	如有个人作品请悉数罗列。
+</p>
+<p>
+	<strong>知识产品部视频节目文案</strong>
+</p>
+<p>
+	招聘人数：1人
+</p>
+<p>
+	岗位职责：
+</p>
+<p>
+	1.	结合策划与创意方向，进行内容撰写、优化和输出；
+</p>
+<p>
+	2.	研究各平台视频用户的观看习惯与心理，对内容风格进行调整；
+</p>
+<p>
+	3.	实时了解视频行业风向，收集整理视频案例，掌握最新表现形式；
+</p>
+<p>
+	4.	配合后期进行审核与把控。
+</p>
+<p>
+	岗位要求：
+</p>
+<p>
+	1.	大学及以上学历；
+</p>
+<p>
+	2.	对于经济史、商业史、金融史、经济、金融、品牌、市场、商业等有涉猎，且乐于钻研，不断追踪最新领域动态；
+</p>
+<p>
+	3.	英语听读能力熟练，在英文要求至上如果掌握其他外语则更好；
+</p>
+<p>
+	4.	分得清事实和观点，通识能力过硬；
+</p>
+<p>
+	5.	老互联网、老二次元、老P社玩家优先。
+</p>
+<p>
+	<strong>知识产品部付费内容制作人</strong>
+</p>
+<p>
+	招聘人数：若干
+</p>
+<p>
+	岗位职责：
+</p>
+<p>
+	1. 负责付费知识产品（音频+视频）的课程设计，编辑制作，运营等全流程的工作；
+</p>
+<p>
+	2. 负责课程项目的全流程跟进，落地，并持续优化运营课程，对课程质量和市场表现负责；
+</p>
+<p>
+	3. 开发课程相关的资源和主播，能够培养优秀泛知识类主播，实现商业营收。
+</p>
+<p>
+	任职要求：
+</p>
+<p>
+	1. 本科及以上学历，有成功的付费课程开发，制作，运营经验；
+</p>
+<p>
+	2. 熟悉互联网运营业务，具备项目管理能力，有喜马拉雅，蜻蜓，得到、商业出版社等职业经验者优先；
+</p>
+<p>
+	3. 对知识付费产品内容有一定的研究，有商业出版社经验者优先；
+</p>
+<p>
+	4. 懂内容，懂运营，有商业sense；有较强的学习能力，数据分析能力和沟通协调能力。
+</p>
+<p>
+	<strong>运营部</strong>
+</p>
+<p>
+	招聘人数：3人
+</p>
+<p>
+	岗位描述：
+</p>
+<p>
+	1.协助运营观察者网渠道内容布局与输出，根据各平台需求对内容进行再加工、分发
+</p>
+<p>
+	2.解读观察者网各渠道数据变化，根据数据反馈及时调整运营策略
+</p>
+<p>
+	3.关注行业同类账号，定期输出竞品分析，提出运营修改建议，进行部门内和跨部门的沟通
+</p>
+<p>
+	4.根据新闻时事热点内容，通过活动等营销手段提升内容付费转化
+</p>
+<p>
+	岗位要求：
+</p>
+<p>
+	1.	全日制本科及以上学历，专业不限
+</p>
+<p>
+	2.	对于观察者网内容有较高的认同与理解
+</p>
+<p>
+	3.	熟悉今日头条、百家号、抖快等平台，具备良好的热点敏锐度，具备一定的数据分析能力
+</p>
+<p>
+	4.	具备熟练的信息检索能力，有版权意识
+</p>
+<p>
+	5. 会视频剪辑者优先
+</p>
+<p>
+	<strong>原创视频组</strong>
+</p>
+<p>
+	<strong>节目编导（3名）</strong>
+</p>
+<p>
+	【工作职责】
+</p>
+<p>
+	1.参与节目策划，掌控拍摄、制作、运营推广等工作，对节目质量负责
+</p>
+<p>
+	2.每月对播放量、粉丝增量等数据进行分析总结
+</p>
+<p>
+	【任职要求】
+</p>
+<p>
+	1.全日制本科广播电视编导、摄像、导演等相关专业
+</p>
+<p>
+	2.玩得转各类摄像设备
+</p>
+<p>
+	3.熟练使用PR等非线编后期软件
+</p>
+<p>
+	4.沟通能力强，有良好的组织协调能力，可以独立完成作品
+</p>
+<p>
+	5.新媒体社交软件深度用户，会玩各种梗
+</p>
+<p>
+	简历须附个人作品文件或链接，并标明在片中担任职务
+</p>
+<p>
+	<strong>后期特效（2名）</strong>
+</p>
+<p>
+	【工作职责】
+</p>
+<p>
+	1.理解项目脚本，运用动画特效，对节目内容赋能
+</p>
+<p>
+	2.参与各类宣传片、广告片、电视节目包装制作
+</p>
+<p>
+	【任职资格】
+</p>
+<p>
+	1.影视，动画，视觉传达等相关专业专科以上学历 &nbsp;
+</p>
+<p>
+	2.熟练操作PR、AE、C4d、PS、AI等设计软件
+</p>
+<p>
+	3.熟悉宣传片、广告片、电视节目包装的制作流程
+</p>
+<p>
+	4.有优化流程的能力，沟通能力强，能和节目编导默契配合
+</p>
+<p>
+	简历须附个人作品文件或链接，并标明在片中担任职务
+</p>
+<p>
+	视频实习生（若干）
+</p>
+<p>
+	全日制本科传媒相关专业，熟练使用摄像设备、PR等非线编剪辑软件。
+</p>
+<p>
+	至少工作3个月，每周至少4天。
+</p>
+<p>
+	<strong>《科工力量》栏目组文案</strong>
+</p>
+<p>
+	招聘人数：1人
+</p>
+<p>
+	岗位职责
+</p>
+<p>
+	1、负责在各平台的图文、视频等新媒体内容创作，以深度特稿和篇幅较大的视频文案写作为主；
+</p>
+<p>
+	2、参与商业项目的内容策划。
+</p>
+<p>
+	任职要求
+</p>
+<p>
+	1、本科及以上学历。有丰富的互联网写作积累，有科技商业媒体从业经验优先；
+</p>
+<p>
+	2、能提供1篇以上的代表作，并说明理由，如在文字技巧、知识涉猎、思想深度、传播影响等任一方面，有可取之处；
+</p>
+<p>
+	3、对写作有热情和满足感，擅于通过信息检索快速学习某个陌生领域的知识。
+</p><p><strong>本文系观察者网独家稿件，未经授权，不得转载。</strong></p>
+</div>
+                                				<div class="share fix">
+	<div class="share-box share-box-2 fl">
+		<div class="share-block"><a class="sina-2" data-cmd="tsina"></a></div>
+		<div class="share-block"><a class="qq-2" data-cmd="sqq"></a></div>
+		<div class="share-block"><a class="qq-z-2" data-cmd="qzone"></a></div>
+		<div class="share-block"><a class="weixin-2" data-cmd="weixin"></a></div>
+	</div>
+	<div class="other-box fl">
+		    <a class="collect ml10" title="收藏本文"><i></i><span id="count0_1"></span></a>
+	</div>
+</div>
+<div class="key-word fix mt15">
+	<span>标签 </span><a style="color:#d06868" href="https://user.guancha.cn/main/search?click=news&keyword=%E8%A7%82%E5%AF%9F%E8%80%85%E7%BD%91">观察者网</a></div>
+<ul class="article-other">
+	<span class="gray">本文仅代表作者个人观点。</span>	<li>责任编辑:
+			关一丁&nbsp
+		</li>
+</ul>				<!-- 领书 -->
+							    												<!--  <div id="post-member"></div>-->
+				<div style="clear:both;"></div>
+				<a name="comment" id="comment"></a>
+				<div class="gc-comment" id="comments-container" data-id="69069" data-type="1" data-from="cms"></div>
+				<ul class="new-left-list" style="border:0px;">
+	<div class="post-recommend">相关推荐</div>
+    	<li class="fix" style="padding:15px 0 4px 0;border-bottom: 1px solid #cccccc;">
+		<a href="/culture/2020_11_24_572418.shtml?s=zwyxgtjdt" target="_blank" class="fl"><img src="https://i.guancha.cn/news/2020/11/24/20201124083235534.jpg" alt="" width="150" height="106"></a>
+		<div class="right fn" style="margin-left:180px;">
+			<h4 class="module-title" style="height:52px"><a href="/culture/2020_11_24_572418.shtml?s=zwyxgtjbt" target="_blank" style="font-size:20px;font-weight:bold;">第一观察丨首次！习主席说中国将积极考虑加入这个协定</a></h4>
+			<div class="module-interact" style="margin-top:28px;">
+				<span style="color:#7b7b7b;font-size:14px;">2020-11-24 08:30</span>
+							    			    <a href="/APEC?s=zwyxgtjzt" target="_blank" class="interact-key" style="color:#ff0000;font-size:14px;float: right;padding-right:0px;">APEC</a>
+			    			    			</div>
+		</div>
+	</li>
+		<li class="fix" style="padding:15px 0 4px 0;border-bottom: 1px solid #cccccc;">
+		<a href="/culture/2020_11_23_572335.shtml?s=zwyxgtjdt" target="_blank" class="fl"><img src="https://i.guancha.cn/news/2020/11/23/20201123102221521.jpg" alt="" width="150" height="106"></a>
+		<div class="right fn" style="margin-left:180px;">
+			<h4 class="module-title" style="height:52px"><a href="/culture/2020_11_23_572335.shtml?s=zwyxgtjbt" target="_blank" style="font-size:20px;font-weight:bold;">两本“新冠词典”出版</a></h4>
+			<div class="module-interact" style="margin-top:28px;">
+				<span style="color:#7b7b7b;font-size:14px;">2020-11-23 10:20</span>
+							    			    <a href="/xinguan?s=zwyxgtjzt" target="_blank" class="interact-key" style="color:#ff0000;font-size:14px;float: right;padding-right:0px;">新冠肺炎抗疫战</a>
+			    			    			</div>
+		</div>
+	</li>
+		<li class="fix" style="padding:15px 0 4px 0;border-bottom: 1px solid #cccccc;">
+		<a href="/culture/2020_11_22_572269.shtml?s=zwyxgtjdt" target="_blank" class="fl"><img src="https://i.guancha.cn/news/2020/11/22/20201122101616918.jpg" alt="" width="150" height="106"></a>
+		<div class="right fn" style="margin-left:180px;">
+			<h4 class="module-title" style="height:52px"><a href="/culture/2020_11_22_572269.shtml?s=zwyxgtjbt" target="_blank" style="font-size:20px;font-weight:bold;">张伯礼提议：建立冷冻进口食品熔断机制</a></h4>
+			<div class="module-interact" style="margin-top:28px;">
+				<span style="color:#7b7b7b;font-size:14px;">2020-11-22 10:17</span>
+							    			    <a href="/xinguan?s=zwyxgtjzt" target="_blank" class="interact-key" style="color:#ff0000;font-size:14px;float: right;padding-right:0px;">新冠肺炎抗疫战</a>
+			    			    			</div>
+		</div>
+	</li>
+		<li class="fix" style="padding:15px 0 4px 0;border-bottom: 1px solid #cccccc;">
+		<a href="/culture/2020_11_18_571833.shtml?s=zwyxgtjdt" target="_blank" class="fl"><img src="https://i.guancha.cn/news/2020/11/18/20201118104757600.jpg" alt="" width="150" height="106"></a>
+		<div class="right fn" style="margin-left:180px;">
+			<h4 class="module-title" style="height:52px"><a href="/culture/2020_11_18_571833.shtml?s=zwyxgtjbt" target="_blank" style="font-size:20px;font-weight:bold;">流失英国25年，68件文物终于回家</a></h4>
+			<div class="module-interact" style="margin-top:28px;">
+				<span style="color:#7b7b7b;font-size:14px;">2020-11-18 10:45</span>
+							    			    <a href="/KaoGu?s=zwyxgtjzt" target="_blank" class="interact-key" style="color:#ff0000;font-size:14px;float: right;padding-right:0px;">考古</a>
+			    			    			</div>
+		</div>
+	</li>
+		<li class="fix" style="padding:15px 0 4px 0;border-bottom: 1px solid #cccccc;">
+		<a href="/culture/2020_10_28_569543.shtml?s=zwyxgtjdt" target="_blank" class="fl"><img src="https://i.guancha.cn/news/2020/10/28/20201028152043894.jpg" alt="" width="150" height="106"></a>
+		<div class="right fn" style="margin-left:180px;">
+			<h4 class="module-title" style="height:52px"><a href="/culture/2020_10_28_569543.shtml?s=zwyxgtjbt" target="_blank" style="font-size:20px;font-weight:bold;">这轮“信用分”钓鱼，果然有人上钩</a></h4>
+			<div class="module-interact" style="margin-top:28px;">
+				<span style="color:#7b7b7b;font-size:14px;">2020-10-28 16:53</span>
+							</div>
+		</div>
+	</li>
+		<li class="fix" style="padding:15px 0 4px 0;border-bottom: 1px solid #cccccc;">
+		<a href="/culture/2020_10_08_567473.shtml?s=zwyxgtjdt" target="_blank" class="fl"><img src="https://i.guancha.cn/news/2020/10/08/20201008182106281.jpg" alt="" width="150" height="106"></a>
+		<div class="right fn" style="margin-left:180px;">
+			<h4 class="module-title" style="height:52px"><a href="/culture/2020_10_08_567473.shtml?s=zwyxgtjbt" target="_blank" style="font-size:20px;font-weight:bold;">广东陆河一工地坍塌致7人死亡</a></h4>
+			<div class="module-interact" style="margin-top:28px;">
+				<span style="color:#7b7b7b;font-size:14px;">2020-10-08 17:04</span>
+							    			    <a href="/AnQuanShengChan?s=zwyxgtjzt" target="_blank" class="interact-key" style="color:#ff0000;font-size:14px;float: right;padding-right:0px;">安全生产</a>
+			    			    			</div>
+		</div>
+	</li>
+		<li class="fix" style="padding:15px 0 4px 0;border-bottom: 1px solid #cccccc;">
+		<a href="/culture/2020_10_02_566999.shtml?s=zwyxgtjdt" target="_blank" class="fl"><img src="https://i.guancha.cn/news/2020/10/02/20201002113404491.jpg" alt="" width="150" height="106"></a>
+		<div class="right fn" style="margin-left:180px;">
+			<h4 class="module-title" style="height:52px"><a href="/culture/2020_10_02_566999.shtml?s=zwyxgtjbt" target="_blank" style="font-size:20px;font-weight:bold;">国庆档首日票房破7亿，创今年单日记录</a></h4>
+			<div class="module-interact" style="margin-top:28px;">
+				<span style="color:#7b7b7b;font-size:14px;">2020-10-02 11:41</span>
+							    			    <a href="/ZhongGuoDianYing?s=zwyxgtjzt" target="_blank" class="interact-key" style="color:#ff0000;font-size:14px;float: right;padding-right:0px;">中国电影</a>
+			    			    			</div>
+		</div>
+	</li>
+		<li class="fix" style="padding:15px 0 4px 0;border-bottom: 1px solid #cccccc;">
+		<a href="/culture/2020_09_26_566406.shtml?s=zwyxgtjdt" target="_blank" class="fl"><img src="https://i.guancha.cn/news/2020/09/26/20200926082758417.jpg" alt="" width="150" height="106"></a>
+		<div class="right fn" style="margin-left:180px;">
+			<h4 class="module-title" style="height:52px"><a href="/culture/2020_09_26_566406.shtml?s=zwyxgtjbt" target="_blank" style="font-size:20px;font-weight:bold;">焦点访谈：民生实事怎么办好？总书记来征集“金点子”了</a></h4>
+			<div class="module-interact" style="margin-top:28px;">
+				<span style="color:#7b7b7b;font-size:14px;">2020-09-26 08:24</span>
+							    			    <a href="/XinShiDai?s=zwyxgtjzt" target="_blank" class="interact-key" style="color:#ff0000;font-size:14px;float: right;padding-right:0px;">新时代新气象新作为</a>
+			    			    			</div>
+		</div>
+	</li>
+		<li class="fix" style="padding:15px 0 4px 0;border-bottom: 1px solid #cccccc;">
+		<a href="/culture/2020_09_23_566081.shtml?s=zwyxgtjdt" target="_blank" class="fl"><img src="https://i.guancha.cn/news/2020/09/23/20200923113144577.jpg" alt="" width="150" height="106"></a>
+		<div class="right fn" style="margin-left:180px;">
+			<h4 class="module-title" style="height:52px"><a href="/culture/2020_09_23_566081.shtml?s=zwyxgtjbt" target="_blank" style="font-size:20px;font-weight:bold;">习近平在第七十五届联合国大会一般性辩论上的讲话（全文）</a></h4>
+			<div class="module-interact" style="margin-top:28px;">
+				<span style="color:#7b7b7b;font-size:14px;">2020-09-23 11:30</span>
+							    			    <a href="/XinShiDai?s=zwyxgtjzt" target="_blank" class="interact-key" style="color:#ff0000;font-size:14px;float: right;padding-right:0px;">新时代新气象新作为</a>
+			    			    			</div>
+		</div>
+	</li>
+		<li class="fix" style="padding:15px 0 4px 0;border-bottom: 1px solid #cccccc;">
+		<a href="/culture/2020_09_21_565811.shtml?s=zwyxgtjdt" target="_blank" class="fl"><img src="https://i.guancha.cn/news/2020/09/21/20200921081537365.jpg" alt="" width="150" height="106"></a>
+		<div class="right fn" style="margin-left:180px;">
+			<h4 class="module-title" style="height:52px"><a href="/culture/2020_09_21_565811.shtml?s=zwyxgtjbt" target="_blank" style="font-size:20px;font-weight:bold;">《八佰》最新票房出炉：华语电影首度问鼎全球冠军</a></h4>
+			<div class="module-interact" style="margin-top:28px;">
+				<span style="color:#7b7b7b;font-size:14px;">2020-09-21 08:17</span>
+							    			    <a href="/ZhongGuoDianYing?s=zwyxgtjzt" target="_blank" class="interact-key" style="color:#ff0000;font-size:14px;float: right;padding-right:0px;">中国电影</a>
+			    			    			</div>
+		</div>
+	</li>
+		<li class="fix" style="padding:15px 0 4px 0;border-bottom: 1px solid #cccccc;">
+		<a href="/culture/2020_09_17_565410.shtml?s=zwyxgtjdt" target="_blank" class="fl"><img src="https://i.guancha.cn/news/2020/09/17/20200917074448603.jpg" alt="" width="150" height="106"></a>
+		<div class="right fn" style="margin-left:180px;">
+			<h4 class="module-title" style="height:52px"><a href="/culture/2020_09_17_565410.shtml?s=zwyxgtjbt" target="_blank" style="font-size:20px;font-weight:bold;">150年首次！莫奈代表作《日出·印象》来华展出</a></h4>
+			<div class="module-interact" style="margin-top:28px;">
+				<span style="color:#7b7b7b;font-size:14px;">2020-09-17 07:47</span>
+							</div>
+		</div>
+	</li>
+		<li class="fix" style="padding:15px 0 4px 0;border-bottom: 1px solid #cccccc;">
+		<a href="/culture/2020_09_16_565375.shtml?s=zwyxgtjdt" target="_blank" class="fl"><img src="https://i.guancha.cn/news/2020/09/16/20200916183434118.jpg" alt="" width="150" height="106"></a>
+		<div class="right fn" style="margin-left:180px;">
+			<h4 class="module-title" style="height:52px"><a href="/culture/2020_09_16_565375.shtml?s=zwyxgtjbt" target="_blank" style="font-size:20px;font-weight:bold;">文旅部：强化脱口秀、说唱类等重点演出类型的监管</a></h4>
+			<div class="module-interact" style="margin-top:28px;">
+				<span style="color:#7b7b7b;font-size:14px;">2020-09-16 19:14</span>
+							</div>
+		</div>
+	</li>
+		<li class="fix" style="padding:15px 0 4px 0;border-bottom: 1px solid #cccccc;">
+		<a href="/culture/2020_09_13_564999.shtml?s=zwyxgtjdt" target="_blank" class="fl"><img src="https://i.guancha.cn/news/2020/09/13/20200913211128201.jpg" alt="" width="150" height="106"></a>
+		<div class="right fn" style="margin-left:180px;">
+			<h4 class="module-title" style="height:52px"><a href="/culture/2020_09_13_564999.shtml?s=zwyxgtjbt" target="_blank" style="font-size:20px;font-weight:bold;">四川省图回应“馆藏文物现身拍卖行”：系被盗文献</a></h4>
+			<div class="module-interact" style="margin-top:28px;">
+				<span style="color:#7b7b7b;font-size:14px;">2020-09-13 21:22</span>
+							</div>
+		</div>
+	</li>
+		<li class="fix" style="padding:15px 0 4px 0;border-bottom: 1px solid #cccccc;">
+		<a href="/culture/2020_09_13_564988.shtml?s=zwyxgtjdt" target="_blank" class="fl"><img src="https://i.guancha.cn/news/2020/09/13/20200913190131848.jpg" alt="" width="150" height="106"></a>
+		<div class="right fn" style="margin-left:180px;">
+			<h4 class="module-title" style="height:52px"><a href="/culture/2020_09_13_564988.shtml?s=zwyxgtjbt" target="_blank" style="font-size:20px;font-weight:bold;">上海旅游节开幕、东拓段开街，百年南京路昨夜见证辉煌</a></h4>
+			<div class="module-interact" style="margin-top:28px;">
+				<span style="color:#7b7b7b;font-size:14px;">2020-09-13 19:07</span>
+							    			    <a href="/ShangHaiGuanCha?s=zwyxgtjzt" target="_blank" class="interact-key" style="color:#ff0000;font-size:14px;float: right;padding-right:0px;">上海观察</a>
+			    			    			</div>
+		</div>
+	</li>
+		<li class="fix" style="padding:15px 0 4px 0;border-bottom: 1px solid #cccccc;">
+		<a href="/culture/2020_09_09_564531.shtml?s=zwyxgtjdt" target="_blank" class="fl"><img src="https://i.guancha.cn/news/2020/09/09/20200909140459836.jpg" alt="" width="150" height="106"></a>
+		<div class="right fn" style="margin-left:180px;">
+			<h4 class="module-title" style="height:52px"><a href="/culture/2020_09_09_564531.shtml?s=zwyxgtjbt" target="_blank" style="font-size:20px;font-weight:bold;">涉嫌“起底”求诊警员，香港女护士被控两罪</a></h4>
+			<div class="module-interact" style="margin-top:28px;">
+				<span style="color:#7b7b7b;font-size:14px;">2020-09-09 14:07</span>
+							    			    <a href="/XiangGangTianQi?s=zwyxgtjzt" target="_blank" class="interact-key" style="color:#ff0000;font-size:14px;float: right;padding-right:0px;">香港</a>
+			    			    			</div>
+		</div>
+	</li>
+		<li class="fix" style="padding:15px 0 4px 0;border-bottom: 1px solid #cccccc;">
+		<a href="/culture/2020_08_31_563472.shtml?s=zwyxgtjdt" target="_blank" class="fl"><img src="https://i.guancha.cn/news/2020/08/31/20200831143201537.jpg" alt="" width="150" height="106"></a>
+		<div class="right fn" style="margin-left:180px;">
+			<h4 class="module-title" style="height:52px"><a href="/culture/2020_08_31_563472.shtml?s=zwyxgtjbt" target="_blank" style="font-size:20px;font-weight:bold;">【行走自贸区】平潭自贸片区：政府服务“跑在前” 筑起“金巢”引“凤”来</a></h4>
+			<div class="module-interact" style="margin-top:28px;">
+				<span style="color:#7b7b7b;font-size:14px;">2020-08-31 14:28</span>
+							    			    <a href="/XingZouZiMaoQu?s=zwyxgtjzt" target="_blank" class="interact-key" style="color:#ff0000;font-size:14px;float: right;padding-right:0px;">行走自贸区</a>
+			    			    			</div>
+		</div>
+	</li>
+		<li class="fix" style="padding:15px 0 4px 0;border-bottom: 1px solid #cccccc;">
+		<a href="/culture/2020_08_30_563343.shtml?s=zwyxgtjdt" target="_blank" class="fl"><img src="https://i.guancha.cn/news/2020/08/30/20200830103301586.jpg" alt="" width="150" height="106"></a>
+		<div class="right fn" style="margin-left:180px;">
+			<h4 class="module-title" style="height:52px"><a href="/culture/2020_08_30_563343.shtml?s=zwyxgtjbt" target="_blank" style="font-size:20px;font-weight:bold;">95后只会吃喝玩乐？我不服！</a></h4>
+			<div class="module-interact" style="margin-top:28px;">
+				<span style="color:#7b7b7b;font-size:14px;">2020-08-30 11:15</span>
+							</div>
+		</div>
+	</li>
+		<li class="fix" style="padding:15px 0 4px 0;border-bottom: 1px solid #cccccc;">
+		<a href="/culture/2020_08_29_563270.shtml?s=zwyxgtjdt" target="_blank" class="fl"><img src="https://i.guancha.cn/news/2020/08/29/20200829161915722.jpg" alt="" width="150" height="106"></a>
+		<div class="right fn" style="margin-left:180px;">
+			<h4 class="module-title" style="height:52px"><a href="/culture/2020_08_29_563270.shtml?s=zwyxgtjbt" target="_blank" style="font-size:20px;font-weight:bold;">为党和人民再立新功 ——习近平总书记向中国人民警察队伍授旗并致训词引发热烈反响</a></h4>
+			<div class="module-interact" style="margin-top:28px;">
+				<span style="color:#7b7b7b;font-size:14px;">2020-08-29 16:17</span>
+							    			    <a href="/XinShiDai?s=zwyxgtjzt" target="_blank" class="interact-key" style="color:#ff0000;font-size:14px;float: right;padding-right:0px;">新时代新气象新作为</a>
+			    			    			</div>
+		</div>
+	</li>
+		<li class="fix" style="padding:15px 0 4px 0;border-bottom: 1px solid #cccccc;">
+		<a href="/culture/2020_08_19_562111.shtml?s=zwyxgtjdt" target="_blank" class="fl"><img src="https://i.guancha.cn/news/2020/08/19/20200819154230280.jpg" alt="" width="150" height="106"></a>
+		<div class="right fn" style="margin-left:180px;">
+			<h4 class="module-title" style="height:52px"><a href="/culture/2020_08_19_562111.shtml?s=zwyxgtjbt" target="_blank" style="font-size:20px;font-weight:bold;">外交部：杨洁篪19日起将访问新加坡、韩国</a></h4>
+			<div class="module-interact" style="margin-top:28px;">
+				<span style="color:#7b7b7b;font-size:14px;">2020-08-19 15:43</span>
+							    			    <a href="/ZhongGuoWaiJiao?s=zwyxgtjzt" target="_blank" class="interact-key" style="color:#ff0000;font-size:14px;float: right;padding-right:0px;">中国外交</a>
+			    			    			</div>
+		</div>
+	</li>
+		<li class="fix" style="padding:15px 0 4px 0;border-bottom: 1px solid #cccccc;">
+		<a href="/culture/2020_08_12_561225.shtml?s=zwyxgtjdt" target="_blank" class="fl"><img src="https://i.guancha.cn/news/2020/08/12/20200812213523850.jpg" alt="" width="150" height="106"></a>
+		<div class="right fn" style="margin-left:180px;">
+			<h4 class="module-title" style="height:52px"><a href="/culture/2020_08_12_561225.shtml?s=zwyxgtjbt" target="_blank" style="font-size:20px;font-weight:bold;">央视点名林夕</a></h4>
+			<div class="module-interact" style="margin-top:28px;">
+				<span style="color:#7b7b7b;font-size:14px;">2020-08-12 21:36</span>
+							    			    <a href="/XiangGangTianQi?s=zwyxgtjzt" target="_blank" class="interact-key" style="color:#ff0000;font-size:14px;float: right;padding-right:0px;">香港</a>
+			    			    			</div>
+		</div>
+	</li>
+	</ul>
+<script>
+$(function(){
+	$('.module-interact span').each(function(){
+		ndate = $(this).text();
+		$(this).text(ndate.substr(0,16));
+	})
+})
+</script>			</li>
+			<li class="right" style="position:relative;bottom:36px;">
+				<script type="text/javascript">
+    function gotoUrl() {
+        var objvalue = document.getElementById("txtkey").value;
+        if (objvalue == ""||objvalue == "请输入关键字！") {
+            alert("请输入查询关键字");
+            document.getElementById("txtkey").focus();
+            return false;
+        }
+        else {
+        	var temp = document.domain.split(".");
+            var url = 'https://user.'+temp[temp.length-2]+'.'+temp[temp.length-1]+"/main/search?click=news&keyword=" + objvalue;
+            url = encodeURI(url);
+            _url = window.location.href;
+            if(_url.indexOf("/main/search?click=news") == -1){
+                window.open(url);
+            }else{
+            	window.location.href = url;
+            }
+            return true;
+        }
+    }
+	document.onkeydown=function(event){
+		var e = event || window.event || arguments.callee.caller.arguments[0];
+		if(e && e.keyCode==13 && document.activeElement.id=="txtkey"){ 
+			return gotoUrl();
+		}
+	}
+</script>
+<div class="search fix">
+	<input onblur="this.style.color='#999';if(this.value=='') this.value='请输入关键字！';" onfocus="this.style.color='#000';if(this.value=='请输入关键字！') this.value='';" value="请输入关键字！" id="txtkey" type="text">
+	<a onclick="gotoUrl();">搜索</a>
+</div>                <div class="head-inpost">
+	<div class="head-inpost-header">
+		<a style="float:none" href="/GuanChaZheTouTiao" target="_blank"><span style="font-size:22px;color:#000">&nbsp;&nbsp;&nbsp;观察者头条</span></a>
+		<a href="/GuanChaZheTouTiao" target="_blank">查看全部</a>
+	</div>
+			<div class="head-inpost-box" style="border:0px;">
+	        <a href="/politics/2021_04_29_589214.shtml?s=zwytt" target="_blank"><img src="https://i.guancha.cn/news/2021/04/29/20210429124504128.jpg" alt="" width="100"></a>
+        <div class="head-inpost-box-right">
+            <a href="/politics/2021_04_29_589214.shtml?s=zwytt" target="_blank" class="head-inpost-title">空间站天和核心舱发射成功，习近平致贺电</a>
+                        <span>评论 79</span>
+                    </div>
+    </div>
+    		<div class="head-inpost-box">
+	        <a href="/politics/2021_04_29_589209.shtml?s=zwytt" target="_blank"><img src="https://i.guancha.cn/news/2021/04/29/20210429114138873.jpg!cmspm" alt="" width="100"></a>
+        <div class="head-inpost-box-right">
+            <a href="/politics/2021_04_29_589209.shtml?s=zwytt" target="_blank" class="head-inpost-title">现场震撼视频来了</a>
+                        <span>评论 351</span>
+                    </div>
+    </div>
+    		<div class="head-inpost-box">
+	        <a href="/politics/2021_04_29_589171.shtml?s=zwytt" target="_blank"><img src="https://i.guancha.cn/news/2021/04/29/20210429082019998.jpg" alt="" width="100"></a>
+        <div class="head-inpost-box-right">
+            <a href="/politics/2021_04_29_589171.shtml?s=zwytt" target="_blank" class="head-inpost-title">空间站天和核心舱将于今日中午11时许发射</a>
+                        <span>评论 325</span>
+                    </div>
+    </div>
+    		<div class="head-inpost-box">
+	        <a href="/internation/2021_04_28_589158.shtml?s=zwytt" target="_blank"><img src="https://i.guancha.cn/news/2021/04/28/20210428233302992.jpg" alt="" width="100"></a>
+        <div class="head-inpost-box-right">
+            <a href="/internation/2021_04_28_589158.shtml?s=zwytt" target="_blank" class="head-inpost-title">“莫迪是超级传播者，要对本轮疫情负责”</a>
+                        <span>评论 348</span>
+                    </div>
+    </div>
+    		<div class="head-inpost-box">
+	        <a href="/politics/2021_04_28_589122.shtml?s=zwytt" target="_blank"><img src="https://i.guancha.cn/news/2021/04/28/20210428142256311.jpg!cmspm?watermark/2/text/MDA6MDM6MDM=/fill/I0ZGRkZGRg==/fontsize/20/dx/10/dy/10" alt="" width="100"></a>
+        <div class="head-inpost-box-right">
+            <a href="/politics/2021_04_28_589122.shtml?s=zwytt" target="_blank" class="head-inpost-title">“日方做了坏事，还不让别人说吗？”</a>
+                        <span>评论 214</span>
+                    </div>
+    </div>
+    </div>                <a href="https://g.gd-share.cn/p/exkovcrg" target="_blank"><img src="https://i.guancha.cn/tg/20210427171617938.jpg" alt="双周内容优质热榜-内页" class="QR_code"></a>
+                <!--  <div class="post-member-right"></div>-->
+                <div class="fenwen24">
+                    <div class="fenwen24-header" id="post-fengwen-hot">
+                		<a style="float:none" href="//user.guancha.cn/?s=zwyessckqb" target="_blank"><span style="font-size:22px;color:#000">&nbsp;&nbsp;&nbsp;风闻 · 24小时最热</span></a>
+                		<a href="//user.guancha.cn/?s=zwyessckqb" target="_blank">查看全部</a>
+                	</div>
+                	<div id="post-fengwen"></div>
+				</div>
+				<div class="latest-video">
+                    <div class="latest-video-header" id="post-shipin-zuixin">
+                		<a style="float:none" href="/GuanWangKanPian" target="_blank"><span style="font-size:22px;color:#000">&nbsp;&nbsp;&nbsp;最新视频</span></a>
+                		<a href="/GuanWangKanPian" target="_blank">查看全部</a>
+                	</div>
+                	<div id="post-shipin"></div>
+				</div>
+		<!--评论精选     <div class="module-news gray">
+					<div class="module-news-header comment-news-header">
+						<a href="/other/commentselected.shtml" target="_blank"><span>评论精选</span></a>
+						<div class="change fix"><a href="javascript:;">换一条</a></div>
+					</div>
+					<div id="selection-comment" class="module-news-main">
+						<p class="module-artile"></p>
+						<div class="comment fix"></div>
+						<div class="module-more fix"><a href="/other/commentselected.shtml" class="fr" target="_blank">more</a></div>
+					</div>
+				</div> -->
+                <div class="module-news-2">
+    <div class="module-news-2-header">
+		<span style="font-size:22px;color:#000">&nbsp;&nbsp;&nbsp;最新闻 Hot</span>
+	</div>
+	<div class="module-news-2-main">
+		<ul class="hot-list-2">
+		    		    			    		<li style="border-top:0px;">
+		    										<a href="/internation/2021_04_29_589223.shtml?s=zwyzxw" target="_blank" onclick='_czc.push(["_trackEvent", "zuixinwen", "pcclick"]);'><img src="https://i.guancha.cn/news/2021/04/29/20210429140622746.jpg" alt="拜登百日演讲：动起来，中国逼近了" width="390" height="152"></a>
+					<h4><a href="/internation/2021_04_29_589223.shtml?s=zwyzxw" target="_blank" onclick='_czc.push(["_trackEvent", "zuixinwen", "pcclick"]);'>拜登百日演讲：动起来，中国逼近了</a></h4>
+								</li>
+					    			    		<li>
+		    										<a href="/economy/2021_04_29_589234.shtml?s=zwyzxw" target="_blank" onclick='_czc.push(["_trackEvent", "zuixinwen", "pcclick"]);'><img src="https://i.guancha.cn/news/2021/04/29/20210429093615351.jpg" alt="“出口管制只会加快中国自主研发，我们将彻底失去市场”" width="390" height="152"></a>
+					<h4><a href="/economy/2021_04_29_589234.shtml?s=zwyzxw" target="_blank" onclick='_czc.push(["_trackEvent", "zuixinwen", "pcclick"]);'>“出口管制只会加快中国自主研发，我们将彻底失去市场”</a></h4>
+								</li>
+					    			    		<li>
+		    										<a href="/economy/2021_04_29_589221.shtml?s=zwyzxw" target="_blank" onclick='_czc.push(["_trackEvent", "zuixinwen", "pcclick"]);'><img src="https://i.guancha.cn/news/2021/04/29/20210429125948942.jpg" alt="连亏6个季度，波音CEO敦促拜登与中国“搞好关系”" width="390" height="152"></a>
+					<h4><a href="/economy/2021_04_29_589221.shtml?s=zwyzxw" target="_blank" onclick='_czc.push(["_trackEvent", "zuixinwen", "pcclick"]);'>连亏6个季度，波音CEO敦促拜登与中国“搞好关系”</a></h4>
+								</li>
+					    			    		<li>
+		    										<a href="/military-affairs/2021_04_29_589236.shtml?s=zwyzxw" target="_blank" onclick='_czc.push(["_trackEvent", "zuixinwen", "pcclick"]);'><img src="https://i.guancha.cn/news/2021/04/29/20210429112235204.jpg" alt="投资250亿，美国大搞船厂基建“应对中国”" width="390" height="152"></a>
+					<h4><a href="/military-affairs/2021_04_29_589236.shtml?s=zwyzxw" target="_blank" onclick='_czc.push(["_trackEvent", "zuixinwen", "pcclick"]);'>投资250亿，美国大搞船厂基建“应对中国”</a></h4>
+								</li>
+					    			    		<li>
+		    										<a href="/internation/2021_04_29_589202.shtml?s=zwyzxw" target="_blank" onclick='_czc.push(["_trackEvent", "zuixinwen", "pcclick"]);'><img src="https://i.guancha.cn/news/2021/04/29/20210429095322409.jpg" alt="“欧安组织无法再承担忽视中国的代价”" width="390" height="152"></a>
+					<h4><a href="/internation/2021_04_29_589202.shtml?s=zwyzxw" target="_blank" onclick='_czc.push(["_trackEvent", "zuixinwen", "pcclick"]);'>“欧安组织无法再承担忽视中国的代价”</a></h4>
+								</li>
+					    			    		<li>
+		    										<a href="/internation/2021_04_29_589225.shtml?s=zwyzxw" target="_blank" onclick='_czc.push(["_trackEvent", "zuixinwen", "pcclick"]);'><img src="https://i.guancha.cn/news/2021/04/29/20210429120921776.jpg" alt="美国小伙到武当习武：中国比美国更像家" width="390" height="152"></a>
+					<h4><a href="/internation/2021_04_29_589225.shtml?s=zwyzxw" target="_blank" onclick='_czc.push(["_trackEvent", "zuixinwen", "pcclick"]);'>美国小伙到武当习武：中国比美国更像家</a></h4>
+								</li>
+					    			    		<li>
+		    										<a href="/internation/2021_04_29_589188.shtml?s=zwyzxw" target="_blank" onclick='_czc.push(["_trackEvent", "zuixinwen", "pcclick"]);'><img src="https://i.guancha.cn/news/2021/04/29/20210429091927228.jpg" alt="“莫迪辞职”，脸书“反复横跳”" width="390" height="152"></a>
+					<h4><a href="/internation/2021_04_29_589188.shtml?s=zwyzxw" target="_blank" onclick='_czc.push(["_trackEvent", "zuixinwen", "pcclick"]);'>“莫迪辞职”，脸书“反复横跳”</a></h4>
+								</li>
+					    			    		<li>
+		    										<a href="/politics/2021_04_29_589200.shtml?s=zwyzxw" target="_blank" onclick='_czc.push(["_trackEvent", "zuixinwen", "pcclick"]);'><img src="https://i.guancha.cn/news/2021/04/29/20210429102545568.jpg" alt="“假难民”祸港多年，港府修订入境条例" width="390" height="152"></a>
+					<h4><a href="/politics/2021_04_29_589200.shtml?s=zwyzxw" target="_blank" onclick='_czc.push(["_trackEvent", "zuixinwen", "pcclick"]);'>“假难民”祸港多年，港府修订入境条例</a></h4>
+								</li>
+					    			    		<li>
+		    										<a href="/internation/2021_04_29_589184.shtml?s=zwyzxw" target="_blank" onclick='_czc.push(["_trackEvent", "zuixinwen", "pcclick"]);'><img src="https://i.guancha.cn/news/2021/04/29/20210429095529807.jpg" alt="我驻印大使：2.5万台制氧机订单，中国厂商加班处理" width="390" height="152"></a>
+					<h4><a href="/internation/2021_04_29_589184.shtml?s=zwyzxw" target="_blank" onclick='_czc.push(["_trackEvent", "zuixinwen", "pcclick"]);'>我驻印大使：2.5万台制氧机订单，中国厂商加班处理</a></h4>
+								</li>
+					    			    		<li>
+		    										<a href="/internation/2021_04_29_589189.shtml?s=zwyzxw" target="_blank" onclick='_czc.push(["_trackEvent", "zuixinwen", "pcclick"]);'><img src="https://i.guancha.cn/news/2021/04/29/20210429082816361.jpg" alt="安倍晒台湾凤梨，蔡英文日语讨好：不够再送" width="390" height="152"></a>
+					<h4><a href="/internation/2021_04_29_589189.shtml?s=zwyzxw" target="_blank" onclick='_czc.push(["_trackEvent", "zuixinwen", "pcclick"]);'>安倍晒台湾凤梨，蔡英文日语讨好：不够再送</a></h4>
+								</li>
+					    			    		<li>
+		    										<a href="/politics/2021_04_29_589170.shtml?s=zwyzxw" target="_blank" onclick='_czc.push(["_trackEvent", "zuixinwen", "pcclick"]);'><img src="https://i.guancha.cn/news/2021/04/29/20210429075222224.jpg" alt="欧盟称中俄发“假消息”削弱西方疫苗信心，我使团驳斥" width="390" height="152"></a>
+					<h4><a href="/politics/2021_04_29_589170.shtml?s=zwyzxw" target="_blank" onclick='_czc.push(["_trackEvent", "zuixinwen", "pcclick"]);'>欧盟称中俄发“假消息”削弱西方疫苗信心，我使团驳斥</a></h4>
+								</li>
+					    			    		<li>
+		    										<a href="/internation/2021_04_28_589158.shtml?s=zwyzxw" target="_blank" onclick='_czc.push(["_trackEvent", "zuixinwen", "pcclick"]);'><img src="https://i.guancha.cn/news/2021/04/28/20210428233309231.jpg" alt="“莫迪是超级传播者，要对本轮疫情负责”" width="390" height="152"></a>
+					<h4><a href="/internation/2021_04_28_589158.shtml?s=zwyzxw" target="_blank" onclick='_czc.push(["_trackEvent", "zuixinwen", "pcclick"]);'>“莫迪是超级传播者，要对本轮疫情负责”</a></h4>
+								</li>
+					    			    		<li>
+		    										<a href="/internation/2021_04_28_589157.shtml?s=zwyzxw" target="_blank" onclick='_czc.push(["_trackEvent", "zuixinwen", "pcclick"]);'><img src="https://i.guancha.cn/news/2021/04/28/20210428225618235.jpg" alt="“以为英国还统治着世界呢？”" width="390" height="152"></a>
+					<h4><a href="/internation/2021_04_28_589157.shtml?s=zwyzxw" target="_blank" onclick='_czc.push(["_trackEvent", "zuixinwen", "pcclick"]);'>“以为英国还统治着世界呢？”</a></h4>
+								</li>
+					    			    		<li>
+		    										<a href="/internation/2021_04_28_589156.shtml?s=zwyzxw" target="_blank" onclick='_czc.push(["_trackEvent", "zuixinwen", "pcclick"]);'><img src="https://i.guancha.cn/news/2021/04/28/20210428221421922.jpg" alt="再砸1.8万亿！这回准备对富人开刀" width="390" height="152"></a>
+					<h4><a href="/internation/2021_04_28_589156.shtml?s=zwyzxw" target="_blank" onclick='_czc.push(["_trackEvent", "zuixinwen", "pcclick"]);'>再砸1.8万亿！这回准备对富人开刀</a></h4>
+								</li>
+					    			    		<li>
+		    										<a href="/internation/2021_04_28_589148.shtml?s=zwyzxw" target="_blank" onclick='_czc.push(["_trackEvent", "zuixinwen", "pcclick"]);'><img src="https://i.guancha.cn/news/2021/04/28/20210428201812535.jpg" alt="拜登提名她出任副防长：生于台湾，曾负责美台军售案" width="390" height="152"></a>
+					<h4><a href="/internation/2021_04_28_589148.shtml?s=zwyzxw" target="_blank" onclick='_czc.push(["_trackEvent", "zuixinwen", "pcclick"]);'>拜登提名她出任副防长：生于台湾，曾负责美台军售案</a></h4>
+								</li>
+					    			    		<li>
+		    										<a href="/politics/2021_04_28_589122.shtml?s=zwyzxw" target="_blank" onclick='_czc.push(["_trackEvent", "zuixinwen", "pcclick"]);'><img src="https://i.guancha.cn/news/2021/04/28/20210428171046817.jpg!cmspn?watermark/2/text/MDA6MDM6MDM=/fill/I0ZGRkZGRg==/fontsize/30/dx/15/dy/15" alt="“日方做了坏事，还不让别人说吗？”" width="390" height="152"></a>
+					<h4><a href="/politics/2021_04_28_589122.shtml?s=zwyzxw" target="_blank" onclick='_czc.push(["_trackEvent", "zuixinwen", "pcclick"]);'>“日方做了坏事，还不让别人说吗？”</a></h4>
+								</li>
+					</ul>
+	</div>
+</div>                <div class="kuaixun-new">
+	<div class="kuaixun-new-header" id="news-focus-post">
+		<span style="font-size:22px;color:#000">&nbsp;&nbsp;&nbsp;快讯</span>
+    </div>
+    <div id="news-focus">
+    	<ul class="kuaixun-new-content">
+    		    		<li><a href="/internation/2021_04_29_589235.shtml" title="福奇因印度疫情指责富裕国家，称全球疫情需全球应对" target="_blank">福奇因印度疫情指责富裕国家，称全球疫情需全球应对</a></li>
+    		    		<li><a href="/internation/2021_04_29_589233.shtml" title="前心腹爆料他挪用捐款搞装修，英国首相约翰逊遭到调查" target="_blank">前心腹爆料他挪用捐款搞装修，英国首相约翰逊遭到调查</a></li>
+    		    		<li><a href="/politics/2021_04_29_589232.shtml" title="天和核心舱官方宣传片来了！​" target="_blank">天和核心舱官方宣传片来了！​</a></li>
+    		    		<li><a href="/politics/2021_04_29_589231.shtml" title="人口七普数据五月中上旬发布？国家统计局回应" target="_blank">人口七普数据五月中上旬发布？国家统计局回应</a></li>
+    		    		<li><a href="/politics/2021_04_29_589230.shtml" title="国家统计局：我国人口继续保持增长" target="_blank">国家统计局：我国人口继续保持增长</a></li>
+    		    		<li><a href="/internation/2021_04_29_589228.shtml" title="又一起“弗洛伊德案”？" target="_blank">又一起“弗洛伊德案”？</a></li>
+    		    		<li><a href="/politics/2021_04_29_589226.shtml" title="中国曲协：坚决抵制封建行帮陋习、恶俗表演" target="_blank">中国曲协：坚决抵制封建行帮陋习、恶俗表演</a></li>
+    		    		<li><a href="/politics/2021_04_29_589224.shtml" title="商务部：一季度全国网上零售额达2.81万亿元，同比增长29.9%" target="_blank">商务部：一季度全国网上零售额达2.81万亿元，同比增长29.9%</a></li>
+    		   		</ul>
+	</div>
+</div>                <!--
+				<div id="page-top-fixed">
+    				<div id="member-recommend">
+    				    <div class="member-recommend"></div>
+    			    </div>  
+    				<div id="fengwen-hot-comment">
+    				    <div class="fengwen-hot-comment"></div>
+    				</div>
+				</div>
+				-->
+			</li>
+		</ul>
+	</div>
+</div>
+<div class="footer">
+	<ul class="fix">
+		<li><a href="http://www.guancha.cn/about/ManuscriptDelivery.shtml" target="_blank">联系我们 </a></li>
+		<li><a href="http://www.guancha.cn/about/about.shtml" target="_blank">关于我们 </a></li>
+		<li><a href="http://www.guancha.cn/about/Copyright.shtml" target="_blank">版权声明 </a></li>
+		<li><a href="http://www.guancha.cn/about/TermsOfService.shtml" target="_blank">服务条款 </a></li>
+		<li><a href="http://www.guancha.cn/about/Advertise.shtml" target="_blank">刊登广告 </a></li>
+		<li><a href="http://weibo.com/newoutlook" target="_blank">联系微博</a></li>
+		<li><a href="http://www.guancha.cn/life/2012_09_05_74361.shtml" target="_blank">加入我们</a></li>
+		<li><a href="http://www.guancha.cn/about/sitemap.shtml" target="_blank">网站地图</a></li>
+		<li><a href="http://www.shjbzx.cn" target="_blank">举报链接</a></li>
+		<li><a href="http://www.guancha.cn/broken-news/2017_03_28_400912_3.shtml" target="_blank">举报制度规范</a></li>
+		<li><a href="http://www.guancha.cn/life/2018_02_11_446706.shtml" target="_blank">《网站自律管理承诺书》</a></li>
+	</ul>
+	<p>
+		Copyright © 2019 观察者 All rights reserved。<br><a target="_blank" href="https://beian.miit.gov.cn">沪ICP备10213822号-2</a>  互联网新闻信息服务许可证：31220170001
+网登网视备（沪）02020000041-1号
+广播电视节目制作经营许可证：（沪）字第03952号 &nbsp;&nbsp;违法及不良信息举报电话：021-62376571<br><br>
+		<a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=31010502000027"><img src="../images/beian-icon.png" style="vertical-align:middle;"> 沪公网安备 31010502000027号</a>
+		<a target="_blank" href="http://www.12377.cn/"><img src="../images/jubao-icon.png" style="vertical-align:middle;"> 中国互联网举报中心</a>
+		<a target="_blank" href="http://www.shjbzx.cn/"><img src="../images/wangxinban_jubao.png" style="vertical-align:middle;"> 上海市互联网违法与不良信息举报中心</a>
+	</p> 
+</div>
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F8ab18ec6e3ee89210917ef2c8572b30e' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<div style="display:none"><script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1254137364'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s95.cnzz.com/z_stat.php%3Fid%3D1254137364' type='text/javascript'%3E%3C/script%3E"));</script></div><div class="full_nav">
+	<a href="#comment" class="gocomment">
+		<img src="/images/chat_icon.png" alt="评论"/>
+	</a>
+	<a href="javascript:;" class="gotop">
+		<img src="/images/gotop.png" alt="返回顶部"/>
+	</a>
+</div>
+<div class="full_nav1">
+	<a href="/Feedback/2016_11_24_381671.shtml" target="_blank" class="sendcomment">
+	</a>
+	<a href="javascript:;" class="showGuancha">
+		<span></span>
+	</a>
+	<a href="javascript:;" class="changColer">
+	</a>
+</div>
+<input id="GlobalMsgButton" value="发送私信" type="hidden" />
+<script type="text/javascript" src="../js/jquery.cookie.js"></script>
+<script type="text/javascript" src="../js/base.js"></script> 
+<script type="text/javascript" src="../js/main.js?20210415"></script>
+<script type="text/javascript" src="../js/jquery.reveal.common.js?20170502"></script>
+<script type="text/javascript" src="../js/tongji.js?20180725"></script>
+<script type="text/javascript" src="//user.guancha.cn/static/js/comments-plugin-cms.js?20201110"></script>
+<script type="text/javascript" src="../js/pay.js?20191224"></script>
+<script>
+	var $prve = $('.J-prve'),
+		$next = $('.J-next'),
+		$changeImg = $('.J-change-img'),
+		$titles = $('.J-titles'),
+		$box = $('.J-img-box'),
+		$boxEle = $box.find('ul li'),
+		_len = $boxEle.size(),
+		_w = $boxEle.width(),
+		t = null,
+		_a = 0;
+
+	$next.on('click',_go);
+	$prve.on('click',function(){
+		_a--;
+		if(_a < 0) _a = _len-1;
+		$boxEle.hide();
+		$boxEle.eq(_a).show();
+		$titles.find('li').hide();
+		$titles.find('li').eq(_a).show();
+	});
+	t = setInterval('_go()',5000);
+	$changeImg.hover(function(){
+		clearInterval(t);
+	},function(){
+		t = setInterval('_go()',5000);
+	});
+	function _go(){
+		_a++;
+		if(_a > _len-1) _a = 0;
+		$boxEle.hide();
+		$boxEle.eq(_a).show();
+		$titles.find('li').hide();
+		$titles.find('li').eq(_a).show();
+	}
+	$("#context_endf").html(
+			"请支持独立网站，转发请注明本文链接：<a href='" + location.href + "'>"+ location.href + "</a>");
+</script>
+<script>
+$(function(){
+    $.ajax({
+        url: '//user.guancha.cn/post/collect-count.json',
+        type: 'GET',
+        dataType: 'jsonp',
+	    cache: true,
+		jsonpCallback: 'callback',
+        data: { 'codeId': _DOC_ID},
+        success : function(res) {
+            if (res.code == 0) {
+                 $('#count0').text(res.count);
+                 $('#count0_1').text(res.count);
+            }
+        }
+    });
+
+	//返回顶部
+	$(window).scroll(function(){
+ 		if($(window).scrollTop()>=800){
+ 			$('.full_nav').show();	
+ 		}else{
+ 			$('.full_nav').hide();
+ 		}
+ 	});
+
+	$('.post_ad_close').click(function(){
+		$('.post_ad').hide();
+	})
+ 	
+	function reFullNav(){
+		var left=($(window).width()-1200)/2+1200;
+ 		$('.full_nav').css('left',left);
+ 		 
+ 		var left1=0;
+		var sellbook = $('#sellbook');
+		if(sellbook.length==0)
+		{
+			left1=($(window).width()-1200)/2-$('.full_nav1').width()-25;
+		}
+		else
+		{
+			left1=($(window).width()-1200)/2-$('.full_nav1').find('img').eq(0).width()-10;
+		}
+		
+ 		$('.full_nav1').css('left',left1).show();
+	}
+	window.onload=function(){
+ 		reFullNav()
+ 	}
+	$(window).resize(function(){
+		reFullNav();
+ 	});
+
+	$('.last').click(function(){
+		if(document.body.scrollTop!=0){ //非标准写法,chrome能识别
+			scrollTop=parseInt(document.body.scrollTop);
+		}else{ //标准写法
+			scrollTop=parseInt(document.documentElement.scrollTop);
+		}
+		value = scrollTop-parseInt(document.getElementById('select_page').offsetTop);
+		$.cookie('content',value);
+		$.cookie('page',$('.module-page span').text())
+	})
+	
+    if($.cookie('content')!=null){
+	    scroll = document.getElementById("page_"+$.cookie('page')).offsetTop + parseInt($.cookie('content'));
+	    window.scrollTo(0,scroll);
+	    $.cookie('content',null);
+	    $.cookie('page',null)
+    }
+})
+</script>
+<script type="application/ld+json">
+        {
+            "@context": "https://ziyuan.baidu.com/contexts/cambrian.jsonld ",
+            "@id": "http://www.guancha.cn/GuanChaZheWang/2012_09_05_74361.shtml ",
+            "appid": "1546608532556400",
+            "title": "成为观察者网的一员",
+            "images": [
+                "https://i.guancha.cn/media/2018/07/27/20180727144058436.jpg"            ], 
+            "pubDate": "2014-07-29T00:00:00"
+        }
+</script>
+<script type="text/javascript"> 
+$(function () { 
+	var fc_comment = $('#page-top-fixed'), st; 
+	$(window).scroll(function () { 
+		if(fc_comment.css('position')=='static'&&fc_comment.offset().top>5500) fc_comment.attr('otop', fc_comment.offset().top); //存储原来的距离顶部的距离 
+		st = Math.max(document.body.scrollTop || document.documentElement.scrollTop); 
+		if (st > parseInt(fc_comment.attr('otop'))) { 
+			if (fc_comment.css('position') != 'fixed') fc_comment.css({ 'position': 'fixed', top: 0,'width':'395px' }); 
+		} else if (fc_comment.css('position') != 'static') fc_comment.css({ 'position': 'static' }); 
+	}); 
+}); 
+</script>
+</body>
+</html>
