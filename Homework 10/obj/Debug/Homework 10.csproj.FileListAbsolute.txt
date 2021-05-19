@@ -1,0 +1,9 @@
+C:\Users\阿西莫夫\source\repos\Homework 10\bin\Debug\Homework 10.exe.config
+C:\Users\阿西莫夫\source\repos\Homework 10\bin\Debug\Homework 10.exe
+C:\Users\阿西莫夫\source\repos\Homework 10\bin\Debug\Homework 10.pdb
+C:\Users\阿西莫夫\source\repos\Homework 10\obj\Debug\Homework 10.csprojAssemblyReference.cache
+C:\Users\阿西莫夫\source\repos\Homework 10\obj\Debug\Homework_10.Form1.resources
+C:\Users\阿西莫夫\source\repos\Homework 10\obj\Debug\Homework_10.Properties.Resources.resources
+C:\Users\阿西莫夫\source\repos\Homework 10\obj\Debug\Homework 10.csproj.GenerateResource.cache
+C:\Users\阿西莫夫\source\repos\Homework 10\obj\Debug\Homework 10.exe
+C:\Users\阿西莫夫\source\repos\Homework 10\obj\Debug\Homework 10.pdb
